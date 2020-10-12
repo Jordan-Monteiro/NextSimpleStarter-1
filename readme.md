@@ -12,7 +12,7 @@
 
 ### Installation
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/NextSimpleStarter)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/SteedMonteiro/NextSimpleStarter)
 
 ### Development Workflow
 Start a live-reload development server:
