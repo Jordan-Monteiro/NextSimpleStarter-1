@@ -8,7 +8,6 @@ import Todo from '../components/Todo'
 // Port in to using useState hooks, if you need state
 const Index = ({ stars }) => (
 	<div>
-		<Fork stars={stars} />
 		<div>
 			<Todo />
 		</div>
